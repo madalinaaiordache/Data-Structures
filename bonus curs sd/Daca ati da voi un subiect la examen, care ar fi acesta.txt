@@ -1,0 +1,7 @@
+Bonus: Daca ați da voi un subiect la examen, care ar fi acesta? (doar cerința)
+
+ 
+
+ Cerință:
+
+ Comparați ArrayList cu LinkedList.
